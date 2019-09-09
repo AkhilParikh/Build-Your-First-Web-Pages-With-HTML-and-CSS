@@ -1,0 +1,23 @@
+body {
+    font-family: "Linux Libertine", Georgia, serif;;
+    background-color: #e4f2fa;
+    color: #000000;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #2564ec;
+}
+
+h3 {
+    color: #2564ec;
+}
+
+li {
+    font-size: 17px;
+}
+
+a {
+    text-decoration: double underline;
+    color: #000000;
+}
